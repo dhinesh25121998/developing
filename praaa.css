@@ -1,0 +1,97 @@
+.username {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.passsword {
+  display: flex;
+  align-items: center;
+}
+.inputuser {
+  margin-left: 30px;
+}
+.inputpass {
+  margin-left: 34px;
+}
+.loginputton {
+  margin-top: 13px;
+  margin-left: 140px;
+  width: 100px;
+  text-align: center;
+  justify-content: end;
+}
+.forgotpass {
+  margin-left: 130px;
+}
+.fullform {
+  display: flex;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.pinterstlogin {
+  margin-top: 100px;
+  margin-left: 460px;
+  background-color: rgb(255, 255, 255);
+  padding: 70px;
+  width: 300px;
+  height: auto;
+  border-radius: 30px 20px;
+}
+.pinterstlogin input {
+  display: block;
+  padding: 10px;
+  border-radius: 10px;
+}
+.emailcss {
+  margin-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 80%;
+}
+.passwordcss {
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 80%;
+}
+.forgotyourpass {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+}
+.loginbutton {
+  font-size: 15px;
+  width: 80%;
+  height: 35px;
+  border-color: rgb(216, 34, 34);
+  background-color: rgb(216, 34, 34);
+  color: #ffffff;
+  border-radius: 20px;
+}
+.continuefacboo {
+  font-size: 15px;
+  width: 80%;
+  height: 35px;
+  border-color: rgb(33, 131, 187);
+  background-color: rgb(33, 131, 187);
+  color: #ffffff;
+  border-radius: 20px;
+}
+.continuewithgoogl {
+  font-size: 15px;
+  margin-top: 15px;
+  width: 80%;
+  height: 35px;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  color: black;
+  border-radius: 20px;
+}
+.centerform {
+}
+.usernameinput {
+  border-color: rgba(56, 53, 53, 0.685);
+}
